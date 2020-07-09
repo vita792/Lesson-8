@@ -1,5 +1,6 @@
 package com.company;
 
-public interface DeployApplication {
-    void deploy ();
+interface DeployApplication {
+    void deploy();
+
 }
